@@ -1,11 +1,9 @@
 /bin/
 /target/
 /.settings/
-/output/
-/srcML/
+!output/
+output/*
+!output/reports/
 
 .project
 .classpath
-*.properties
-!default.properties
-*.list
